@@ -6,6 +6,8 @@ Download the project with the following command:
 
 git clone https://github.com/mostafashekari/ecommerce_reactjs.git
 
+Then install NodeJS on your OS
+
 Enter the following command in the terminal to install the required items:
 
 npm install
